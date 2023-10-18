@@ -1,4 +1,4 @@
-# Flippy
+# Flappy Bird
 
 A game in which a player has to invert the tiles of the opponent.
 
@@ -18,7 +18,7 @@ Then run the following command in the repo root directory
 
 It will start the game.
 
-## Contributing to Flippy
+## Contributing to Flappy Bird
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
